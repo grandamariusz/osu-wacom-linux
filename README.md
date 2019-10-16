@@ -2,6 +2,7 @@
 Wacom area setting utility for osu. 
 
 This little script calculates and sets tablet's area for Wacom tablets automatically, given four parameters.
+
 It disables any smoothing by default.
 
 # requirements

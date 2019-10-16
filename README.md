@@ -6,6 +6,7 @@ It disables any smoothing by default.
 
 # requirements
 Make sure to install `xf86-input-wacom` and `xorg-xrandr` before running the script
+
 Arch Linux:
 `sudo pacman -S xf86-input-wacom xorg-xrandr`
 

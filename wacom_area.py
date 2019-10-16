@@ -55,7 +55,7 @@ finally:
 
 	except:
 		print('\n' + "An error ocurred. Check if your tablet is connected.")
-		print("Otherwise, check if you have xrandr and xf86-input-wacom installed" + '\n')
+		print("Otherwise, check if you have xorg-xrandr and xf86-input-wacom installed" + '\n')
 
 	finally:
 		#offset calculations

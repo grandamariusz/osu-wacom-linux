@@ -61,7 +61,6 @@ finally:
 		#offset calculations
 		x_off  = (area_arr[2] - x_coor) * (offset_x/100)
 		y_off  = (area_arr[3] - y_coor) * (offset_y/100)
-
- 		rotate(flipped)
 		no_smoothing()
+		rotate(flipped)
 		set_area(0 + x_off, 0 + y_off, x_coor + x_off, y_coor + y_off)

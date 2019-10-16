@@ -14,5 +14,5 @@ Make sure to install `xf86-input-wacom` and `xorg-xrandr` before running the scr
 - Area's placement on the Y axis: from 0 to 100 (accepts floats)
 
 # how to execute the script
-run the script using: 
+Run the script using: 
 `python wacom.py`

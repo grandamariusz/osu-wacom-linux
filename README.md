@@ -22,8 +22,8 @@ Clone the script into your home directory:
 
 `git clone https://github.com/smokepenguin/osu-linux-wacom`
 
-`cd ./osu-linux-wacom`
-
 Finally, run the script using: 
+
+`cd ./osu-linux-wacom`
 
 `python wacom.py`

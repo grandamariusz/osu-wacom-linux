@@ -19,6 +19,9 @@ Arch Linux:
 
 # how to execute the script
 `git clone https://github.com/smokepenguin/osu-linux-wacom`
+
 `cd ./osu-linux-wacom`
+
 Finally, run the script using: 
+
 `python wacom.py`

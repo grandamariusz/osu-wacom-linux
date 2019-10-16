@@ -5,7 +5,7 @@ This little script calculates and sets tablet's area for Wacom tablets automatic
 It disables any smoothing by default.
 
 # requirements
-Make sure to install xf86-input-wacom and xorg-xrandr before running the script
+Make sure to install `xf86-input-wacom` and `xorg-xrandr` before running the script
 
 # parameters
 - Area percentage: from 0 to 100 (accepts floats)
@@ -15,4 +15,4 @@ Make sure to install xf86-input-wacom and xorg-xrandr before running the script
 
 # how to execute the script
 run the script using: 
-python wacom.py
+`python wacom.py`

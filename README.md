@@ -18,5 +18,7 @@ Arch Linux:
 - Area's placement on the Y axis: from 0 to 100 (accepts floats)
 
 # how to execute the script
-Run the script using: 
+`git clone https://github.com/smokepenguin/osu-linux-wacom`
+`cd ./osu-linux-wacom`
+Finally, run the script using: 
 `python wacom.py`

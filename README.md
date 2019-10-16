@@ -1,5 +1,5 @@
 # osu-linux-wacom
-This is my first repository. 
+osu wacom area setting utility. 
 
 This little script calculates and sets tablet's area for Wacom tablets automatically, given four parameters.
 It disables any smoothing by default.

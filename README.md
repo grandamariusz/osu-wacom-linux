@@ -5,10 +5,11 @@ This little script calculates and sets tablet's area for Wacom tablets automatic
 
 It disables any smoothing by default.
 
-
 Example use: `python owl.py 50 75 75 n`
 
 Help: `python owl.py -h` or `python owl.py --help`
+
+Have fun!
 
 # requirements
 Make sure to install `xf86-input-wacom` and `xorg-xrandr` before running the script
@@ -18,8 +19,8 @@ Arch Linux:
 
 # parameters
 - Area percentage: from 0 to 100 (accepts floats)
-- Area's placement on the X axis: from 0 to 100 (accepts floats)
-- Area's placement on the Y axis: from 0 to 100 (accepts floats)
+- Area's placement on the X axis percentage: from 0 to 100 (accepts floats)
+- Area's placement on the Y axis percentage: from 0 to 100 (accepts floats)
 - Left-handed mode (tablet rotated 180 degrees): y / n
 
 # how to execute the script
@@ -33,6 +34,3 @@ Finally, run the script using:
 
 `python owl.py <parameters here>`
 
-If you want to run it during your favourite windows manager's boot, check ArchWiki
-
-Have fun!

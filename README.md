@@ -1,6 +1,6 @@
 # This is a commit test
-# osu-linux-wacom
-Wacom area setting utility for osu. 
+# osu-wacom-linux
+Wacom area setting utility for osu!.
 
 This little script calculates and sets tablet's area for Wacom tablets automatically, given four parameters.
 
@@ -21,10 +21,10 @@ Arch Linux:
 # how to execute the script
 Clone the script into your home directory:
 
-`git clone https://github.com/smokepenguin/osu-linux-wacom`
+`git clone https://github.com/smokepenguin/osu-wacom-linux`
 
 Finally, run the script using: 
 
-`cd ./osu-linux-wacom`
+`cd ./osu-wacom-linux`
 
-`python wacom.py`
+`python owl.py`

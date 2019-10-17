@@ -1,4 +1,3 @@
-# This is a commit test
 # osu-wacom-linux
 Wacom area setting utility for osu!.
 

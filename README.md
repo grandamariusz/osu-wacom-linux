@@ -5,6 +5,8 @@ This little script calculates and sets tablet's area for Wacom tablets automatic
 
 It disables any smoothing by default.
 
+# Example use
+
 Example use: `python owl.py 50 75 75 n`
 
 Help: `python owl.py -h` or `python owl.py --help`

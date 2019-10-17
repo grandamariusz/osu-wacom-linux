@@ -31,3 +31,5 @@ Finally, run the script using:
 
 `python owl.py <parameters here>`
 
+If you want to run it during your favourite windows manager's boot, check ArchWiki
+Have fun!

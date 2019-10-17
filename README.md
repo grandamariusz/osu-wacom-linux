@@ -5,7 +5,7 @@ This little script calculates and sets tablet's area for Wacom tablets automatic
 
 It disables any smoothing by default.
 
-Example use: python owl.py 50 75 75 n
+Example use: `python owl.py 50 75 75 n`
 
 # requirements
 Make sure to install `xf86-input-wacom` and `xorg-xrandr` before running the script
